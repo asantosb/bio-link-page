@@ -1,0 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.link{
+    @apply w-full p-3 text-gray-500 transition-all duration-300 rounded-sm bg-gray-50 hover:bg-gray-300;
+}
