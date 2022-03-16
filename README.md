@@ -1,5 +1,5 @@
 # bio-link-page
 
-Bio Link con Vite + Tailwind
+Proyecto <b>Bio Link</b> realizado con Vite + Tailwind.
 
 https://asantosbiolink.netlify.app/
